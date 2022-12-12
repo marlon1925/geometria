@@ -1,7 +1,7 @@
 public class geom {
     int nlados;
     double lado, altura, base, radio, NPi;
-    private int valorsecreto;
+    public int valorsecreto;
 
     public geom(int nlados, double lado, double altura, double base, double radio, double NPi) {
         this.nlados = nlados;
